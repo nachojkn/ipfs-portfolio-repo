@@ -43,10 +43,10 @@ const About = () => {
 						(student) that did some programming on the side as a hobby.{" "}
 					</p>{" "}
 					<p>
-						But ever since I learned about Ethereum I decided I wanted to be a
-						part of the ecosystem and began to study Computer Science. By
-						completing a couple of Fullstack courses, I realized I'm more fond
-						of Backend Development (using Phyton, nodeJS and GO).
+						But as I kept coding I realized I wanted to be a developer and began
+						to study Computer Science. After completing a couple of Fullstack
+						courses, I ended up being more fond of Backend Development (using
+						Phyton, nodeJS and GO).
 					</p>
 					<a href="#contact" className="btn btn-primary">
 						Let's talk

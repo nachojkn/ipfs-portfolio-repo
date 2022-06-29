@@ -16,7 +16,7 @@ const data = [
 		id: 2,
 		image: IMG2,
 		title: "Fullstack Web Design | 2",
-		github: "https://github.com",
+		github: "https://github.com/nachojkn/ipfs-portfolio-repo",
 		demo: "nachojkn.eth.link",
 	},
 	{
